@@ -1,0 +1,25 @@
+/* body{
+    background-image: url(images/school.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
+.main{
+    margin-top: 200px;
+    margin-left: 15%;
+}
+.login{
+    background-color:darkgray;
+    padding: 16px;
+    border-radius: 16px;
+    align-content: center;
+    width: 90%;
+}
+footer {
+    padding: 15px;
+    background-color:darkgray;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
